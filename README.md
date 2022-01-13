@@ -5,9 +5,9 @@
 -->
 
 #### About me:
-- 🔭 I’m working as a Salesforce Developer
+- 🔭 I’m working as a Salesforce Consultant 
 - 🇵🇱 I'm based in Poland, though I work remotely 
 - 🌎 I have a long-standing track record of successful cooperation with (small and big) companies from both Europe & US
-- 🌱 I’m currently learning German (B1) and Spanish (A2)
+- 🌱 I’m currently learning German (B1/B2) and Spanish (B1/B2)
 - 📫 You can find more info + **some blog posts** on my website: www.wiktordyngosz.pl
 - ❤️ When I'm not here, you can find me biking, hiking, surfing or snowboarding 
