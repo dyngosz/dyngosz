@@ -5,7 +5,7 @@
 -->
 
 #### About me:
-- 🔭 I’m working as a Salesforce Consultant 
+- 🔭 I’m currently building Peakforce: https://www.peakforce.dev/
 - 🇵🇱 I'm based in Poland, though I work remotely 
 - 🌎 I have a long-standing track record of successful cooperation with (small and big) companies from both Europe & US
 - 🌱 I’m currently learning German (B1/B2) and Spanish (B1/B2)
